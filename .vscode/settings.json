@@ -1,0 +1,33 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "happy",
+      "database": "${workspaceFolder:happy-api}/src/db/db.sqlite"
+    },
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "happy",
+      "database": "${workspaceFolder:happy-api}/src/db/db.sqlite"
+    },
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "happy",
+      "database": "${workspaceFolder:happy-api}/src/db/db.sqlite"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "estudantinder",
+      "username": "postgres",
+      "password": "postgres"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
